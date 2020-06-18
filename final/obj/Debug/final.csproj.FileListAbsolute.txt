@@ -1,0 +1,9 @@
+C:\Users\damla\source\repos\final\obj\Debug\final.csprojAssemblyReference.cache
+C:\Users\damla\source\repos\final\obj\Debug\final.Form1.resources
+C:\Users\damla\source\repos\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\damla\source\repos\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\damla\source\repos\final\bin\Debug\final.exe.config
+C:\Users\damla\source\repos\final\bin\Debug\final.exe
+C:\Users\damla\source\repos\final\bin\Debug\final.pdb
+C:\Users\damla\source\repos\final\obj\Debug\final.exe
+C:\Users\damla\source\repos\final\obj\Debug\final.pdb
